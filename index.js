@@ -20,7 +20,7 @@ app.use(function (req, res, next) {
 app.use('/api', routes);
 
 const indexPath = path
-  .join(__dirname, 'error-server', 'src', 'client', 'build', 'index.html')
+  .join(__dirname, 'src', 'client', 'build', 'index.html')
   .replace('server\\', '');
 
 app.use('/', express.static(indexPath.replace('index.html', '')));
