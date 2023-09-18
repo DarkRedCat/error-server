@@ -49,7 +49,7 @@ router.patch('/:delCategory', async (req, res) => {
     });
   }
 });
-
+0;
 router.get('/', async (req, res) => {
   try {
     const list = await Category.find();
