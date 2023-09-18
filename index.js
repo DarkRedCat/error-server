@@ -38,6 +38,27 @@ app.get('/api/v1/books', async (req, res) => {
     });
   }
 });
+app.get('/api/v1/books1', async (req, res) => {
+  try {
+    const data = await BookModel.find(query)
+      .skip(skip)
+      .limit(limit)
+      .sort({ [orderBy]: sortBy });
+    const totalItems = await BookModel.countDocuments(query);
+    return res.status(200).json({
+      msg: 'Ok1',
+      data,
+      totalItems,
+      totalPages: Math.ceil(totalItems / limit),
+      limit: +limit,
+      currentPage: page,
+    });
+  } catch (error) {
+    return res.status(500).json({
+      msg: error.message,
+    });
+  }
+});
 
 app.get('/api/v1/books/:id', async (req, res) => {
   try {
