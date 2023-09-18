@@ -19,6 +19,10 @@ app.use(function (req, res, next) {
 
 app.use('/api', routes);
 
+app.get('*', (req, res) => {
+  res.sendFile('./src/client/build/index.html');
+});
+
 const PORT = process.env.PORT;
 
 app.listen(PORT, () => {
