@@ -9,7 +9,7 @@ module.exports = (req, res, next) => {
     const token = req.headers.Authorization.split(' ')[1];
 
     if (!token) {
-      return res.status(401).json({ message: req.headers });
+      return res.status(402).json({ message: req.headers });
     }
 
     const data = tokenService.validateAccess(token);
