@@ -11,8 +11,8 @@ connectDB();
 app.use('/api', routes);
 app.use(
   cors({
-    origin: ['http://localhost:3000/', 'http://localhost:3000'],
-    methods: 'GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS',
+    origin: 'http://localhost:3000',
+    methods: ['GET', 'HEAD', 'PUT', 'PATCH', 'POST', 'DELETE', 'OPTION'],
     credentials: true,
   })
 );
