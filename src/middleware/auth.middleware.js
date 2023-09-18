@@ -7,9 +7,9 @@ module.exports = (req, res, next) => {
 
   try {
     const token = req.headers.Authorization.split(' ')[1];
-    console.log(req.headers);
+
     if (!token) {
-      return res.status(401).json({ message: 'Unauthorized' });
+      return res.status(401).json({ message: req.headers });
     }
 
     const data = tokenService.validateAccess(token);
