@@ -1,0 +1,8 @@
+{
+  "port": 8080,
+  "mongoUri": "mongodb+srv://kabbyy2:admin@cluster0.dy2fi44.mongodb.net/?retryWrites=true&w=majority",
+  "adminId": "64e7940e46f80625a3d70ee2",
+  "adminPass": "Admin123",
+  "accessSecret": "super secret from backend",
+  "refreshSecret": "super refresh key"
+}

@@ -1,0 +1,728 @@
+[
+  {
+    "_id": "67rdca3eeb7f6fgeed47111111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "t-shirts1",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": "https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry  only on a hanger, without sunlight on the fabric']",
+    "Cost": "153.09"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471111111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "t-shirts",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed411111111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "sweatshirts",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed1411111111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "sweatshirts",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed14111111111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "hoodie",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed141111111111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "hoodie",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed1141111111111111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "backpacks",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed1141111111111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "backpacks",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed11141111111111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "pants-shorts",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb7f6fge1ed11141111111111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "pants-shorts",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb7f6f1e1ed11141111111111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "polo",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb7f6f11e1ed11141111111111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "polo",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb7f6f111e1ed11141111111111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "shirts",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb71111212123sdfsdfsfsfsfsfgsdfgsdfgdfgsfgsfgsdfgsdfgsdfgsdfgsdfgwfgsdfg111f116f111e1ed11141111111111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "shirts",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "fsdfsfdsfsfdfgfgdfgdfgfdgsdfffsfsdfssadfaewrfgsert",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "pajamas",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb711f6f111e1ed11141111111111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "pajamas",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb711f16f111e1ed11141111111111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "hats",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb711f116f111e1ed11141111111111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "hats",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb7111f116f111e1ed11141111111111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "caps",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb71111f116f111e1ed11141111111111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "cowards",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed4711981",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "cowards",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed47119811",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "cowards",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471198111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "cowards",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed4711918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "t-shirts",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed47111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "t-shirts",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "t-shirts",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed4711111918111",
+    "name": "['Ультра Черное Худи', 'Ультра Чорне Худi', 'Ultra Black Hoodie']",
+    "category": "t-shirts",
+    "img": [
+      " https://placehold.co/1040x1024",
+      " https://placehold.co/1040x1024"
+    ],
+    "text": "['Все еще контрбрендово, но только теплее. Согревает не любовь, а ткань.', 'Це все ще контрбрендово, але тільки тепліше. Зігріває не любов, а тканина', 'Its still counter-branded, but only warmer. Its not love that warms, its fabric.']",
+    "size": ["S", "M", "L", "XL", "2XL"],
+
+    "composition": "['Состав ткани 100% хлопок.', 'Склад тканини - 100% бавовна.', 'The composition of the fabric is 100% cotton.']",
+    "dimension_grid": {
+      "text": "['Как правильно выбрать размер  Выбираете вашу футболку/вышиванку/кофту и замеряете метром  Ширина на размерной сетке указана буквой А, меряете под подмышками, от шва до шва, как показано красной линией.  Длина на размерной сетке указана буквой B, меряете от горловины и до самого низа вещи, как показано красной линией.  Длина рукава на размерной сетке указана буквой С  Далее сравниваете ваши показатели с нашей таблицей размеров, прикинув плюс/минус пару сантиметров и выбираете размер.', 'Як правильно вибрати розмір Виберіть свою футболку / вишиванку / піджак і виміряйте метром Ширина на розмірній сітці позначається буквою А, вимірюється під пахвами, від шва до шва, як показано червоною лінією. Довжина на розмірній сітці позначається буквою В, вимірюється від шиї до самого низу речі, як показано червоною лінією. Довжина втулки на розмірній сітці позначається буквою С Далі порівняйте свої показники з нашою розмірною таблицею, оцінивши плюс / мінус пару сантиметрів і виберіть розмір.', 'How to choose the right size Choose your T-shirt / embroidered shirt / jacket and measure with a meter The width on the size grid is indicated by the letter A, measure under the armpits, from seam to seam, as shown by the red line. The length on the dimensional grid is indicated by the letter B, measure from the neck to the very bottom of the thing, as shown by the red line. The length of the sleeve on the size grid is indicated by the letter C Next, compare your performance with our size chart, estimating plus / minus a couple of centimeters and choose the size.']",
+      "img": " https://placehold.co/1040x1024",
+      "table": {
+        "S": [48, 68, 65],
+        "M": [50, 68, 65],
+        "L": [52, 69, 65],
+        "XL": [54, 69, 66],
+        "2XL": [56, 72, 66],
+        "3XL": [58, 72, 66]
+      }
+    },
+    "Caring_for_a_thing": "['Стирать в вывернутом состоянии, только в стиральной машине, до 40 градусов, не использовать машинную сушку, сушить только на вешалке, без попадания солнечных лучей на ткань', 'Періть перевернуто, тільки в пральній машині, до 40 градусів, не використовуйте машинну сушку, сушіть тільки на вішалці, без попадання сонячних променів на тканину', 'Wash inverted, only in the washing machine, up to 40 degrees, do not use machine drying, dry only on a hanger, without sunlight on the fabric']",
+    "Cost": "53.09"
+  }
+]
