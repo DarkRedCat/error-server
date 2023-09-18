@@ -7,7 +7,7 @@ app.use(express.json());
 const connectDB = require('./connectMongo');
 const routes = require('./src/routes');
 connectDB();
-
+//**red */
 app.use('/api', routes);
 app.use(
   cors({
