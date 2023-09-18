@@ -1,51 +1,51 @@
-const jwt = require('jsonwebtoken')
-const config = require('config')
-const Token = require('../models/Token')
+const jwt = require('jsonwebtoken');
+const Token = require('../models/Token');
+require('dotenv').config();
 
 class TokenService {
   // return: accessToken, refreshToken, expiresIn
   generate(payload) {
-    const accessToken = jwt.sign(payload, config.get('accessSecret'), {
-      expiresIn: '1h'
-    })
-    const refreshToken = jwt.sign(payload, config.get('refreshSecret'))
-    return {accessToken, refreshToken, expiresIn: 3600}
+    const accessToken = jwt.sign(payload, process.env.ACCESSSECRET, {
+      expiresIn: '1h',
+    });
+    const refreshToken = jwt.sign(payload, process.env.REFRESHSECRET);
+    return { accessToken, refreshToken, expiresIn: 3600 };
   }
 
   async save(user, refreshToken) {
-    const data = await Token.findOne({ user })
+    const data = await Token.findOne({ user });
     if (data) {
-      data.refreshToken = refreshToken
-      return data.save()
+      data.refreshToken = refreshToken;
+      return data.save();
     }
 
-    const token = await Token.create({ user, refreshToken })
-    return token
+    const token = await Token.create({ user, refreshToken });
+    return token;
   }
 
   validateRefresh(refreshToken) {
     try {
-       return jwt.verify(refreshToken, config.get('refreshSecret'))
+      return jwt.verify(refreshToken, process.env.REFRESHSECRET);
     } catch (e) {
-      return null
+      return null;
     }
   }
 
   validateAccess(accessToken) {
     try {
-      return jwt.verify(accessToken, config.get('accessSecret'))
+      return jwt.verify(accessToken, process.env.ACCESSSECRET);
     } catch (e) {
-      return null
+      return null;
     }
   }
 
   async findToken(refreshToken) {
     try {
-      return await Token.findOne({ refreshToken })
+      return await Token.findOne({ refreshToken });
     } catch (e) {
-      return null
+      return null;
     }
   }
 }
 
-module.exports = new TokenService()
+module.exports = new TokenService();
