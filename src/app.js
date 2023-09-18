@@ -15,19 +15,6 @@ app.use(cors());
 
 app.use('/api', routes);
 
-const PORT = config.get('port') ?? 8080;
-
-const indexPath = path
-  .join(__dirname, 'server', 'client', 'build', 'index.html')
-  .replace('server\\', '');
-
-app.use('/', express.static(indexPath.replace('index.html', '')));
-
-app.get('*', (req, res) => {
-  res.sendFile(indexPath);
-});
-console.log(indexPath);
-
 async function start() {
   try {
     mongoose.connection.once('open', () => {
