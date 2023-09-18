@@ -8,14 +8,17 @@ const connectDB = require('./connectMongo');
 const routes = require('./src/routes');
 connectDB();
 //**red */
+app.use(function (req, res, next) {
+  res.header('Access-Control-Allow-Origin', '*');
+  res.header(
+    'Access-Control-Allow-Headers',
+    'Origin, X-Requested-With, Content-Type, Accept'
+  );
+  next();
+});
+
 app.use('/api', routes);
-app.use(
-  cors({
-    origin: 'http://localhost:3000',
-    methods: ['GET', 'HEAD', 'PUT', 'PATCH', 'POST', 'DELETE', 'OPTION'],
-    credentials: true,
-  })
-);
+
 const PORT = process.env.PORT;
 
 app.listen(PORT, () => {
