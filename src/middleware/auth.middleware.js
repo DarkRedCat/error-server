@@ -4,17 +4,15 @@ module.exports = (req, res, next) => {
   if (req.method === 'OPTIONS') {
     return next();
   }
-
   try {
     const token = req.headers.Authorization.split(' ')[1];
     if (!token) {
-      return res.status(402).json({ message: 'Unauthorized2' });
+      return res.status(401).json({ message: 'Unauthorized' });
     }
 
     const data = tokenService.validateAccess(token);
-
+    return res.status(404).json({ message: '12' });
     req.user = data;
-
     next();
   } catch (e) {
     res.status(403).json({ message: 'Unauthorized3' });
