@@ -7,9 +7,8 @@ module.exports = (req, res, next) => {
 
   try {
     const token = req.headers.Authorization.split(' ')[1];
-
     if (!token) {
-      return res.status(402).json({ message: req.headers });
+      return res.status(402).json({ message: 'Unauthorized2' });
     }
 
     const data = tokenService.validateAccess(token);
@@ -18,6 +17,6 @@ module.exports = (req, res, next) => {
 
     next();
   } catch (e) {
-    res.status(401).json({ message: e });
+    res.status(403).json({ message: 'Unauthorized3' });
   }
 };
